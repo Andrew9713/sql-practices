@@ -9,3 +9,5 @@ This repository contains my SQL practice exercises, projects and notes.
 - Transactions
 - Database management
 - SQL challenges
+## Projects
+### SQL Murder Mystery
