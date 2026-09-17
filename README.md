@@ -11,3 +11,4 @@ This repository contains my SQL practice exercises, projects and notes.
 - SQL challenges
 ## Projects
 ### SQL Murder Mystery
+### SQL WHERE Practice Exercise (datalemur)
